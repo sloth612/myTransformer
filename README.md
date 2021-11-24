@@ -1,5 +1,5 @@
 # myTransformer
-学习视频：https://www.bilibili.com/video/BV17y4y1m737?p=179&spm_id_from=pageDriver
+学习视频：https://www.bilibili.com/video/BV17y4y1m737?p=149
 
 官方笔记：http://121.199.45.168:8001/1/
 
